@@ -8,4 +8,6 @@ After the data has been prepocessed, a baseline is set using a Multinomial Naive
 
 The baseline Multinomial Naive Bayes classifier achieved an accuracy of 94.13%, while the Logistic Regression model achieved an accuracy of 90.79%.
 
-<img src="https://github.com/jxne00/brand-mentions-sentiment/blob/main/assets/lr-confusionmatrix.png" alt="Confusion Matrix">
+<p align="center">
+  <img src="https://github.com/jxne00/brand-mentions-sentiment/blob/main/assets/lr-confusionmatrix.png" alt="Confusion Matrix" width=500>
+</p>
